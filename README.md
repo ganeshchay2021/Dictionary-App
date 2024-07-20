@@ -1,6 +1,24 @@
 # dictionaryapp
 
-A new Flutter project.
+A small projetc, named Dictionary app. In this project have implemented a dictionary APIs. User can search any meaning. 
+
+# Screenshot of the app screen
+
+<img src="https://github.com/user-attachments/assets/284c94b0-a118-409c-994d-a0c2df732dc4" alt="Screenshot 1" height="500" style="margin-right: 200px;">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://github.com/user-attachments/assets/1a544e00-ca14-4ccf-8085-572275d57de1" alt="Screenshot 2" height="500">
+
+<br><br><br><br>
+
+<img src="https://github.com/user-attachments/assets/3ebd02a0-37e1-43ce-9652-c95909a785d4" alt="Screenshot 3" height="500" style="margin-right: 200px;">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://github.com/user-attachments/assets/d0b223ba-cd1d-48f4-8f87-bef45711ad46" alt="Screenshot 4" height="500">
+
+<br><br><br><br>
+
+<img src="https://github.com/user-attachments/assets/853b2881-4e73-46d5-a117-b25324366146" alt="Screenshot 5" height="500" style="margin-right: 20px;">
 
 ## Getting Started
 
