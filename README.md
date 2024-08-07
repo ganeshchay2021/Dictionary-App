@@ -1,6 +1,6 @@
 # dictionaryapp
 
-A small projetc, named Dictionary app. In this project have implemented a dictionary APIs. User can search any meaning. 
+A small projetc, named Dictionary app. In this project have implemented a dictionary APIs. User can search any meaning.
 
 # Screenshot of the app screen
 
